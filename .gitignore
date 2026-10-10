@@ -1,0 +1,9 @@
+.venv/
+env/
+venv/
+__pycache__/
+*.dll
+*.pyc
+static/resultados/*
+.u2net/
+.cache/
